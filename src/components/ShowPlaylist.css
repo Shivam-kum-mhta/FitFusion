@@ -1,0 +1,107 @@
+/* ShowPlaylist.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+}
+
+.show-playlist {
+  width: 60vw; /* Full viewport width */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+  margin: 10px 0;
+}
+
+.loading, .error {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  border: none;
+  background-color: #4f46e5;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #3b3a9c;
+}
+
+.search-container {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .suggestions-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    background: white;
+    max-height: 150px;
+    overflow-y: auto;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+  }
+  
+  .suggestions-list li {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .suggestions-list li:hover {
+    background: #f0f0f0;
+  }
+  
+  .show-playlist {
+    position: relative;
+    padding: 20px;
+  }
+  
+  .search-bar-container {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    z-index: 0.75;
+  }
+  
+  .search-bar-container input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .search-suggestions {
+    max-height: 222px;
+    overflow-y: auto;
+    margin-top: 5px;
+    padding: 0;
+    list-style-type: none;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .search-suggestions li {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .search-suggestions li:hover {
+    background-color: #f0f0f0;
+  }
+  

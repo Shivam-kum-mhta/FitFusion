@@ -1,0 +1,3002 @@
+[
+  {
+    "name": "3/4 sit-up"
+  },
+  {
+    "name": "45° side bend"
+  },
+  {
+    "name": "air bike"
+  },
+  {
+    "name": "all fours squad stretch"
+  },
+  {
+    "name": "alternate heel touchers"
+  },
+  {
+    "name": "alternate lateral pulldown"
+  },
+  {
+    "name": "ankle circles"
+  },
+  {
+    "name": "archer pull up"
+  },
+  {
+    "name": "archer push up"
+  },
+  {
+    "name": "arm slingers hanging bent knee legs"
+  },
+  {
+    "name": "arm slingers hanging straight legs"
+  },
+  {
+    "name": "arms apart circular toe touch (male)"
+  },
+  {
+    "name": "arms overhead full sit-up (male)"
+  },
+  {
+    "name": "assisted chest dip (kneeling)"
+  },
+  {
+    "name": "assisted hanging knee raise"
+  },
+  {
+    "name": "assisted hanging knee raise with throw down"
+  },
+  {
+    "name": "assisted lying calves stretch"
+  },
+  {
+    "name": "assisted lying glutes stretch"
+  },
+  {
+    "name": "assisted lying gluteus and piriformis stretch"
+  },
+  {
+    "name": "assisted lying leg raise with lateral throw down"
+  },
+  {
+    "name": "assisted lying leg raise with throw down"
+  },
+  {
+    "name": "assisted motion russian twist"
+  },
+  {
+    "name": "assisted parallel close grip pull-up"
+  },
+  {
+    "name": "assisted prone hamstring"
+  },
+  {
+    "name": "assisted prone lying quads stretch"
+  },
+  {
+    "name": "assisted prone rectus femoris stretch"
+  },
+  {
+    "name": "assisted pull-up"
+  },
+  {
+    "name": "assisted seated pectoralis major stretch with stability ball"
+  },
+  {
+    "name": "assisted side lying adductor stretch"
+  },
+  {
+    "name": "assisted sit-up"
+  },
+  {
+    "name": "assisted standing chin-up"
+  },
+  {
+    "name": "assisted standing pull-up"
+  },
+  {
+    "name": "assisted standing triceps extension (with towel)"
+  },
+  {
+    "name": "assisted triceps dip (kneeling)"
+  },
+  {
+    "name": "assisted wide-grip chest dip (kneeling)"
+  },
+  {
+    "name": "astride jumps (male)"
+  },
+  {
+    "name": "back and forth step"
+  },
+  {
+    "name": "back extension on exercise ball"
+  },
+  {
+    "name": "back lever"
+  },
+  {
+    "name": "back pec stretch"
+  },
+  {
+    "name": "backward jump"
+  },
+  {
+    "name": "balance board"
+  },
+  {
+    "name": "band alternating biceps curl"
+  },
+  {
+    "name": "band alternating v-up"
+  },
+  {
+    "name": "band assisted pull-up"
+  },
+  {
+    "name": "band assisted wheel rollerout"
+  },
+  {
+    "name": "band bench press"
+  },
+  {
+    "name": "band bent-over hip extension"
+  },
+  {
+    "name": "band bicycle crunch"
+  },
+  {
+    "name": "band close-grip pulldown"
+  },
+  {
+    "name": "band close-grip push-up"
+  },
+  {
+    "name": "band concentration curl"
+  },
+  {
+    "name": "band fixed back close grip pulldown"
+  },
+  {
+    "name": "band fixed back underhand pulldown"
+  },
+  {
+    "name": "band front lateral raise"
+  },
+  {
+    "name": "band front raise"
+  },
+  {
+    "name": "band hip lift"
+  },
+  {
+    "name": "band horizontal pallof press"
+  },
+  {
+    "name": "band jack knife sit-up"
+  },
+  {
+    "name": "band kneeling one arm pulldown"
+  },
+  {
+    "name": "band kneeling twisting crunch"
+  },
+  {
+    "name": "band lying hip internal rotation"
+  },
+  {
+    "name": "band lying straight leg raise"
+  },
+  {
+    "name": "band one arm overhead biceps curl"
+  },
+  {
+    "name": "band one arm single leg split squat"
+  },
+  {
+    "name": "band one arm standing low row"
+  },
+  {
+    "name": "band one arm twisting chest press"
+  },
+  {
+    "name": "band one arm twisting seated row"
+  },
+  {
+    "name": "band pull through"
+  },
+  {
+    "name": "band push sit-up"
+  },
+  {
+    "name": "band reverse fly"
+  },
+  {
+    "name": "band reverse wrist curl"
+  },
+  {
+    "name": "band seated hip internal rotation"
+  },
+  {
+    "name": "band seated twist"
+  },
+  {
+    "name": "band shoulder press"
+  },
+  {
+    "name": "band shrug"
+  },
+  {
+    "name": "band side triceps extension"
+  },
+  {
+    "name": "band single leg calf raise"
+  },
+  {
+    "name": "band single leg reverse calf raise"
+  },
+  {
+    "name": "band single leg split squat"
+  },
+  {
+    "name": "band squat"
+  },
+  {
+    "name": "band squat row"
+  },
+  {
+    "name": "band standing crunch"
+  },
+  {
+    "name": "band standing rear delt row"
+  },
+  {
+    "name": "band standing twisting crunch"
+  },
+  {
+    "name": "band step-up"
+  },
+  {
+    "name": "band stiff leg deadlift"
+  },
+  {
+    "name": "band straight back stiff leg deadlift"
+  },
+  {
+    "name": "band straight leg deadlift"
+  },
+  {
+    "name": "band twisting overhead press"
+  },
+  {
+    "name": "band two legs calf raise - (band under both legs) v. 2"
+  },
+  {
+    "name": "band underhand pulldown"
+  },
+  {
+    "name": "band v-up"
+  },
+  {
+    "name": "band vertical pallof press"
+  },
+  {
+    "name": "band wrist curl"
+  },
+  {
+    "name": "band y-raise"
+  },
+  {
+    "name": "barbell alternate biceps curl"
+  },
+  {
+    "name": "barbell bench front squat"
+  },
+  {
+    "name": "barbell bench press"
+  },
+  {
+    "name": "barbell bench squat"
+  },
+  {
+    "name": "barbell bent arm pullover"
+  },
+  {
+    "name": "barbell bent over row"
+  },
+  {
+    "name": "barbell biceps curl (with arm blaster)"
+  },
+  {
+    "name": "barbell clean and press"
+  },
+  {
+    "name": "barbell clean-grip front squat"
+  },
+  {
+    "name": "barbell close-grip bench press"
+  },
+  {
+    "name": "barbell curl"
+  },
+  {
+    "name": "barbell deadlift"
+  },
+  {
+    "name": "barbell decline bench press"
+  },
+  {
+    "name": "barbell decline bent arm pullover"
+  },
+  {
+    "name": "barbell decline close grip to skull press"
+  },
+  {
+    "name": "barbell decline pullover"
+  },
+  {
+    "name": "barbell decline wide-grip press"
+  },
+  {
+    "name": "barbell decline wide-grip pullover"
+  },
+  {
+    "name": "barbell drag curl"
+  },
+  {
+    "name": "barbell floor calf raise"
+  },
+  {
+    "name": "barbell front chest squat"
+  },
+  {
+    "name": "barbell front raise"
+  },
+  {
+    "name": "barbell front raise and pullover"
+  },
+  {
+    "name": "barbell front squat"
+  },
+  {
+    "name": "barbell full squat"
+  },
+  {
+    "name": "barbell full squat (back pov)"
+  },
+  {
+    "name": "barbell full squat (side pov)"
+  },
+  {
+    "name": "barbell full zercher squat"
+  },
+  {
+    "name": "barbell glute bridge"
+  },
+  {
+    "name": "barbell glute bridge two legs on bench (male)"
+  },
+  {
+    "name": "barbell good morning"
+  },
+  {
+    "name": "barbell guillotine bench press"
+  },
+  {
+    "name": "barbell hack squat"
+  },
+  {
+    "name": "barbell high bar squat"
+  },
+  {
+    "name": "barbell incline bench press"
+  },
+  {
+    "name": "barbell incline close grip bench press"
+  },
+  {
+    "name": "barbell incline reverse-grip press"
+  },
+  {
+    "name": "barbell incline row"
+  },
+  {
+    "name": "barbell incline shoulder raise"
+  },
+  {
+    "name": "barbell jefferson squat"
+  },
+  {
+    "name": "barbell jm bench press"
+  },
+  {
+    "name": "barbell jump squat"
+  },
+  {
+    "name": "barbell lateral lunge"
+  },
+  {
+    "name": "barbell low bar squat"
+  },
+  {
+    "name": "barbell lunge"
+  },
+  {
+    "name": "barbell lying back of the head tricep extension"
+  },
+  {
+    "name": "barbell lying close-grip press"
+  },
+  {
+    "name": "barbell lying close-grip triceps extension"
+  },
+  {
+    "name": "barbell lying extension"
+  },
+  {
+    "name": "barbell lying lifting (on hip)"
+  },
+  {
+    "name": "barbell lying preacher curl"
+  },
+  {
+    "name": "barbell lying triceps extension"
+  },
+  {
+    "name": "barbell lying triceps extension skull crusher"
+  },
+  {
+    "name": "barbell narrow stance squat"
+  },
+  {
+    "name": "barbell one arm bent over row"
+  },
+  {
+    "name": "barbell one arm floor press"
+  },
+  {
+    "name": "barbell one arm side deadlift"
+  },
+  {
+    "name": "barbell one arm snatch"
+  },
+  {
+    "name": "barbell one leg squat"
+  },
+  {
+    "name": "barbell overhead squat"
+  },
+  {
+    "name": "barbell palms down wrist curl over a bench"
+  },
+  {
+    "name": "barbell palms up wrist curl over a bench"
+  },
+  {
+    "name": "barbell pendlay row"
+  },
+  {
+    "name": "barbell pin presses"
+  },
+  {
+    "name": "barbell preacher curl"
+  },
+  {
+    "name": "barbell press sit-up"
+  },
+  {
+    "name": "barbell prone incline curl"
+  },
+  {
+    "name": "barbell pullover"
+  },
+  {
+    "name": "barbell pullover to press"
+  },
+  {
+    "name": "barbell rack pull"
+  },
+  {
+    "name": "barbell rear delt raise"
+  },
+  {
+    "name": "barbell rear delt row"
+  },
+  {
+    "name": "barbell rear lunge"
+  },
+  {
+    "name": "barbell rear lunge v. 2"
+  },
+  {
+    "name": "barbell revers wrist curl v. 2"
+  },
+  {
+    "name": "barbell reverse close-grip bench press"
+  },
+  {
+    "name": "barbell reverse curl"
+  },
+  {
+    "name": "barbell reverse grip bent over row"
+  },
+  {
+    "name": "barbell reverse grip decline bench press"
+  },
+  {
+    "name": "barbell reverse grip incline bench press"
+  },
+  {
+    "name": "barbell reverse grip incline bench row"
+  },
+  {
+    "name": "barbell reverse grip skullcrusher"
+  },
+  {
+    "name": "barbell reverse preacher curl"
+  },
+  {
+    "name": "barbell reverse wrist curl"
+  },
+  {
+    "name": "barbell rollerout"
+  },
+  {
+    "name": "barbell rollerout from bench"
+  },
+  {
+    "name": "barbell romanian deadlift"
+  },
+  {
+    "name": "barbell seated behind head military press"
+  },
+  {
+    "name": "barbell seated bradford rocky press"
+  },
+  {
+    "name": "barbell seated calf raise"
+  },
+  {
+    "name": "barbell seated calf raise"
+  },
+  {
+    "name": "barbell seated close grip behind neck triceps extension"
+  },
+  {
+    "name": "barbell seated close-grip concentration curl"
+  },
+  {
+    "name": "barbell seated good morning"
+  },
+  {
+    "name": "barbell seated overhead press"
+  },
+  {
+    "name": "barbell seated overhead triceps extension"
+  },
+  {
+    "name": "barbell seated twist"
+  },
+  {
+    "name": "barbell shrug"
+  },
+  {
+    "name": "barbell side bent v. 2"
+  },
+  {
+    "name": "barbell side split squat"
+  },
+  {
+    "name": "barbell side split squat v. 2"
+  },
+  {
+    "name": "barbell single leg deadlift"
+  },
+  {
+    "name": "barbell single leg split squat"
+  },
+  {
+    "name": "barbell sitted alternate leg raise"
+  },
+  {
+    "name": "barbell sitted alternate leg raise (female)"
+  },
+  {
+    "name": "barbell skier"
+  },
+  {
+    "name": "barbell speed squat"
+  },
+  {
+    "name": "barbell split squat v. 2"
+  },
+  {
+    "name": "barbell squat (on knees)"
+  },
+  {
+    "name": "barbell squat jump step rear lunge"
+  },
+  {
+    "name": "barbell standing ab rollerout"
+  },
+  {
+    "name": "barbell standing back wrist curl"
+  },
+  {
+    "name": "barbell standing bradford press"
+  },
+  {
+    "name": "barbell standing calf raise"
+  },
+  {
+    "name": "barbell standing close grip curl"
+  },
+  {
+    "name": "barbell standing close grip military press"
+  },
+  {
+    "name": "barbell standing concentration curl"
+  },
+  {
+    "name": "barbell standing front raise over head"
+  },
+  {
+    "name": "barbell standing leg calf raise"
+  },
+  {
+    "name": "barbell standing overhead triceps extension"
+  },
+  {
+    "name": "barbell standing reverse grip curl"
+  },
+  {
+    "name": "barbell standing rocking leg calf raise"
+  },
+  {
+    "name": "barbell standing twist"
+  },
+  {
+    "name": "barbell standing wide grip biceps curl"
+  },
+  {
+    "name": "barbell standing wide military press"
+  },
+  {
+    "name": "barbell standing wide-grip curl"
+  },
+  {
+    "name": "barbell step-up"
+  },
+  {
+    "name": "barbell stiff leg good morning"
+  },
+  {
+    "name": "barbell straight leg deadlift"
+  },
+  {
+    "name": "barbell sumo deadlift"
+  },
+  {
+    "name": "barbell thruster"
+  },
+  {
+    "name": "barbell upright row"
+  },
+  {
+    "name": "barbell upright row v. 2"
+  },
+  {
+    "name": "barbell upright row v. 3"
+  },
+  {
+    "name": "barbell wide bench press"
+  },
+  {
+    "name": "barbell wide reverse grip bench press"
+  },
+  {
+    "name": "barbell wide squat"
+  },
+  {
+    "name": "barbell wide-grip upright row"
+  },
+  {
+    "name": "barbell wrist curl"
+  },
+  {
+    "name": "barbell wrist curl v. 2"
+  },
+  {
+    "name": "barbell zercher squat"
+  },
+  {
+    "name": "basic toe touch (male)"
+  },
+  {
+    "name": "battling ropes"
+  },
+  {
+    "name": "bear crawl"
+  },
+  {
+    "name": "behind head chest stretch"
+  },
+  {
+    "name": "bench dip (knees bent)"
+  },
+  {
+    "name": "bench dip on floor"
+  },
+  {
+    "name": "bench hip extension"
+  },
+  {
+    "name": "bench pull-ups"
+  },
+  {
+    "name": "bent knee lying twist (male)"
+  },
+  {
+    "name": "biceps leg concentration curl"
+  },
+  {
+    "name": "biceps narrow pull-ups"
+  },
+  {
+    "name": "biceps pull-up"
+  },
+  {
+    "name": "body-up"
+  },
+  {
+    "name": "bodyweight drop jump squat"
+  },
+  {
+    "name": "bodyweight incline side plank"
+  },
+  {
+    "name": "bodyweight kneeling triceps extension"
+  },
+  {
+    "name": "bodyweight side lying biceps curl"
+  },
+  {
+    "name": "bodyweight squatting row"
+  },
+  {
+    "name": "bodyweight squatting row (with towel)"
+  },
+  {
+    "name": "bodyweight standing calf raise"
+  },
+  {
+    "name": "bodyweight standing close-grip one arm row"
+  },
+  {
+    "name": "bodyweight standing close-grip row"
+  },
+  {
+    "name": "bodyweight standing one arm row"
+  },
+  {
+    "name": "bodyweight standing one arm row (with towel)"
+  },
+  {
+    "name": "bodyweight standing row"
+  },
+  {
+    "name": "bodyweight standing row (with towel)"
+  },
+  {
+    "name": "bottoms-up"
+  },
+  {
+    "name": "box jump down with one leg stabilization"
+  },
+  {
+    "name": "bridge - mountain climber (cross body)"
+  },
+  {
+    "name": "burpee"
+  },
+  {
+    "name": "butt-ups"
+  },
+  {
+    "name": "butterfly yoga pose"
+  },
+  {
+    "name": "cable alternate shoulder press"
+  },
+  {
+    "name": "cable alternate triceps extension"
+  },
+  {
+    "name": "cable assisted inverse leg curl"
+  },
+  {
+    "name": "cable bar lateral pulldown"
+  },
+  {
+    "name": "cable bench press"
+  },
+  {
+    "name": "cable close grip curl"
+  },
+  {
+    "name": "cable concentration curl"
+  },
+  {
+    "name": "cable concentration extension (on knee)"
+  },
+  {
+    "name": "cable cross-over lateral pulldown"
+  },
+  {
+    "name": "cable cross-over revers fly"
+  },
+  {
+    "name": "cable cross-over variation"
+  },
+  {
+    "name": "cable curl"
+  },
+  {
+    "name": "cable deadlift"
+  },
+  {
+    "name": "cable decline fly"
+  },
+  {
+    "name": "cable decline one arm press"
+  },
+  {
+    "name": "cable decline press"
+  },
+  {
+    "name": "cable decline seated wide-grip row"
+  },
+  {
+    "name": "cable drag curl"
+  },
+  {
+    "name": "cable floor seated wide-grip row"
+  },
+  {
+    "name": "cable forward raise"
+  },
+  {
+    "name": "cable front raise"
+  },
+  {
+    "name": "cable front shoulder raise"
+  },
+  {
+    "name": "cable hammer curl (with rope)"
+  },
+  {
+    "name": "cable high pulley overhead tricep extension"
+  },
+  {
+    "name": "cable high row (kneeling)"
+  },
+  {
+    "name": "cable hip adduction"
+  },
+  {
+    "name": "cable incline bench press"
+  },
+  {
+    "name": "cable incline bench row"
+  },
+  {
+    "name": "cable incline fly"
+  },
+  {
+    "name": "cable incline fly (on stability ball)"
+  },
+  {
+    "name": "cable incline pushdown"
+  },
+  {
+    "name": "cable incline triceps extension"
+  },
+  {
+    "name": "cable judo flip"
+  },
+  {
+    "name": "cable kickback"
+  },
+  {
+    "name": "cable kneeling crunch"
+  },
+  {
+    "name": "cable kneeling rear delt row (with rope) (male)"
+  },
+  {
+    "name": "cable kneeling triceps extension"
+  },
+  {
+    "name": "cable lat pulldown full range of motion"
+  },
+  {
+    "name": "cable lateral pulldown (with rope attachment)"
+  },
+  {
+    "name": "cable lateral pulldown with v-bar"
+  },
+  {
+    "name": "cable lateral raise"
+  },
+  {
+    "name": "cable low fly"
+  },
+  {
+    "name": "cable low seated row"
+  },
+  {
+    "name": "cable lying bicep curl"
+  },
+  {
+    "name": "cable lying close-grip curl"
+  },
+  {
+    "name": "cable lying extension pullover (with rope attachment)"
+  },
+  {
+    "name": "cable lying fly"
+  },
+  {
+    "name": "cable lying triceps extension v. 2"
+  },
+  {
+    "name": "cable middle fly"
+  },
+  {
+    "name": "cable one arm bent over row"
+  },
+  {
+    "name": "cable one arm curl"
+  },
+  {
+    "name": "cable one arm decline chest fly"
+  },
+  {
+    "name": "cable one arm fly on exercise ball"
+  },
+  {
+    "name": "cable one arm incline fly on exercise ball"
+  },
+  {
+    "name": "cable one arm incline press"
+  },
+  {
+    "name": "cable one arm incline press on exercise ball"
+  },
+  {
+    "name": "cable one arm lateral bent-over"
+  },
+  {
+    "name": "cable one arm lateral raise"
+  },
+  {
+    "name": "cable one arm preacher curl"
+  },
+  {
+    "name": "cable one arm press on exercise ball"
+  },
+  {
+    "name": "cable one arm pulldown"
+  },
+  {
+    "name": "cable one arm reverse preacher curl"
+  },
+  {
+    "name": "cable one arm straight back high row (kneeling)"
+  },
+  {
+    "name": "cable one arm tricep pushdown"
+  },
+  {
+    "name": "cable overhead curl"
+  },
+  {
+    "name": "cable overhead curl on exercise ball"
+  },
+  {
+    "name": "cable overhead triceps extension (rope attachment)"
+  },
+  {
+    "name": "cable palm rotational row"
+  },
+  {
+    "name": "cable preacher curl"
+  },
+  {
+    "name": "cable press on exercise ball"
+  },
+  {
+    "name": "cable pull through (with rope)"
+  },
+  {
+    "name": "cable pulldown"
+  },
+  {
+    "name": "cable pulldown (pro lat bar)"
+  },
+  {
+    "name": "cable pulldown bicep curl"
+  },
+  {
+    "name": "cable pushdown"
+  },
+  {
+    "name": "cable pushdown (straight arm) v. 2"
+  },
+  {
+    "name": "cable pushdown (with rope attachment)"
+  },
+  {
+    "name": "cable rear delt row (stirrups)"
+  },
+  {
+    "name": "cable rear delt row (with rope)"
+  },
+  {
+    "name": "cable rear drive"
+  },
+  {
+    "name": "cable rear pulldown"
+  },
+  {
+    "name": "cable reverse crunch"
+  },
+  {
+    "name": "cable reverse curl"
+  },
+  {
+    "name": "cable reverse grip triceps pushdown (sz-bar) (with arm blaster)"
+  },
+  {
+    "name": "cable reverse one arm curl"
+  },
+  {
+    "name": "cable reverse preacher curl"
+  },
+  {
+    "name": "cable reverse wrist curl"
+  },
+  {
+    "name": "cable reverse-grip pushdown"
+  },
+  {
+    "name": "cable reverse-grip straight back seated high row"
+  },
+  {
+    "name": "cable rope crossover seated row"
+  },
+  {
+    "name": "cable rope elevated seated row"
+  },
+  {
+    "name": "cable rope extension incline bench row"
+  },
+  {
+    "name": "cable rope hammer preacher curl"
+  },
+  {
+    "name": "cable rope high pulley overhead tricep extension"
+  },
+  {
+    "name": "cable rope incline tricep extension"
+  },
+  {
+    "name": "cable rope lying on floor tricep extension"
+  },
+  {
+    "name": "cable rope one arm hammer preacher curl"
+  },
+  {
+    "name": "cable rope seated row"
+  },
+  {
+    "name": "cable russian twists (on stability ball)"
+  },
+  {
+    "name": "cable seated chest press"
+  },
+  {
+    "name": "cable seated crunch"
+  },
+  {
+    "name": "cable seated curl"
+  },
+  {
+    "name": "cable seated high row (v-bar)"
+  },
+  {
+    "name": "cable seated one arm alternate row"
+  },
+  {
+    "name": "cable seated one arm concentration curl"
+  },
+  {
+    "name": "cable seated overhead curl"
+  },
+  {
+    "name": "cable seated rear lateral raise"
+  },
+  {
+    "name": "cable seated row"
+  },
+  {
+    "name": "cable seated shoulder internal rotation"
+  },
+  {
+    "name": "cable seated twist"
+  },
+  {
+    "name": "cable seated wide-grip row"
+  },
+  {
+    "name": "cable shoulder press"
+  },
+  {
+    "name": "cable shrug"
+  },
+  {
+    "name": "cable side bend"
+  },
+  {
+    "name": "cable side bend crunch (bosu ball)"
+  },
+  {
+    "name": "cable side crunch"
+  },
+  {
+    "name": "cable squat row (with rope attachment)"
+  },
+  {
+    "name": "cable squatting curl"
+  },
+  {
+    "name": "cable standing back wrist curl"
+  },
+  {
+    "name": "cable standing calf raise"
+  },
+  {
+    "name": "cable standing cross-over high reverse fly"
+  },
+  {
+    "name": "cable standing crunch"
+  },
+  {
+    "name": "cable standing crunch (with rope attachment)"
+  },
+  {
+    "name": "cable standing fly"
+  },
+  {
+    "name": "cable standing hip extension"
+  },
+  {
+    "name": "cable standing inner curl"
+  },
+  {
+    "name": "cable standing lift"
+  },
+  {
+    "name": "cable standing one arm triceps extension"
+  },
+  {
+    "name": "cable standing one leg calf raise"
+  },
+  {
+    "name": "cable standing pulldown (with rope)"
+  },
+  {
+    "name": "cable standing rear delt row (with rope)"
+  },
+  {
+    "name": "cable standing reverse grip one arm overhead tricep extension"
+  },
+  {
+    "name": "cable standing row (v-bar)"
+  },
+  {
+    "name": "cable standing shoulder external rotation"
+  },
+  {
+    "name": "cable standing twist row (v-bar)"
+  },
+  {
+    "name": "cable standing up straight crossovers"
+  },
+  {
+    "name": "cable straight arm pulldown"
+  },
+  {
+    "name": "cable straight arm pulldown (with rope)"
+  },
+  {
+    "name": "cable straight back seated row"
+  },
+  {
+    "name": "cable supine reverse fly"
+  },
+  {
+    "name": "cable thibaudeau kayak row"
+  },
+  {
+    "name": "cable triceps pushdown (v-bar)"
+  },
+  {
+    "name": "cable triceps pushdown (v-bar) (with arm blaster)"
+  },
+  {
+    "name": "cable tuck reverse crunch"
+  },
+  {
+    "name": "cable twist"
+  },
+  {
+    "name": "cable twist (up-down)"
+  },
+  {
+    "name": "cable twisting pull"
+  },
+  {
+    "name": "cable two arm curl on incline bench"
+  },
+  {
+    "name": "cable two arm tricep kickback"
+  },
+  {
+    "name": "cable underhand pulldown"
+  },
+  {
+    "name": "cable upper chest crossovers"
+  },
+  {
+    "name": "cable upper row"
+  },
+  {
+    "name": "cable upright row"
+  },
+  {
+    "name": "cable wide grip rear pulldown behind neck"
+  },
+  {
+    "name": "cable wrist curl"
+  },
+  {
+    "name": "calf push stretch with hands against wall"
+  },
+  {
+    "name": "calf stretch with hands against wall"
+  },
+  {
+    "name": "calf stretch with rope"
+  },
+  {
+    "name": "cambered bar lying row"
+  },
+  {
+    "name": "captains chair straight leg raise"
+  },
+  {
+    "name": "chair leg extended stretch"
+  },
+  {
+    "name": "chest and front of shoulder stretch"
+  },
+  {
+    "name": "chest dip"
+  },
+  {
+    "name": "chest dip (on dip-pull-up cage)"
+  },
+  {
+    "name": "chest dip on straight bar"
+  },
+  {
+    "name": "chest stretch with exercise ball"
+  },
+  {
+    "name": "chest tap push-up (male)"
+  },
+  {
+    "name": "chin-up"
+  },
+  {
+    "name": "chin-ups (narrow parallel grip)"
+  },
+  {
+    "name": "circles knee stretch"
+  },
+  {
+    "name": "clap push up"
+  },
+  {
+    "name": "clock push-up"
+  },
+  {
+    "name": "close grip chin-up"
+  },
+  {
+    "name": "close-grip push-up"
+  },
+  {
+    "name": "close-grip push-up (on knees)"
+  },
+  {
+    "name": "cocoons"
+  },
+  {
+    "name": "crab twist toe touch"
+  },
+  {
+    "name": "cross body crunch"
+  },
+  {
+    "name": "crunch (hands overhead)"
+  },
+  {
+    "name": "crunch (on stability ball)"
+  },
+  {
+    "name": "crunch (on stability ball, arms straight)"
+  },
+  {
+    "name": "crunch floor"
+  },
+  {
+    "name": "curl-up"
+  },
+  {
+    "name": "curtsey squat"
+  },
+  {
+    "name": "cycle cross trainer"
+  },
+  {
+    "name": "dead bug"
+  },
+  {
+    "name": "decline crunch"
+  },
+  {
+    "name": "decline push-up"
+  },
+  {
+    "name": "decline sit-up"
+  },
+  {
+    "name": "deep push up"
+  },
+  {
+    "name": "diamond push-up"
+  },
+  {
+    "name": "donkey calf raise"
+  },
+  {
+    "name": "drop push up"
+  },
+  {
+    "name": "dumbbell alternate biceps curl"
+  },
+  {
+    "name": "dumbbell alternate biceps curl (with arm blaster)"
+  },
+  {
+    "name": "dumbbell alternate hammer preacher curl"
+  },
+  {
+    "name": "dumbbell alternate preacher curl"
+  },
+  {
+    "name": "dumbbell alternate seated hammer curl"
+  },
+  {
+    "name": "dumbbell alternate side press"
+  },
+  {
+    "name": "dumbbell alternating bicep curl with leg raised on exercise ball"
+  },
+  {
+    "name": "dumbbell alternating seated bicep curl on exercise ball"
+  },
+  {
+    "name": "dumbbell arnold press"
+  },
+  {
+    "name": "dumbbell arnold press v. 2"
+  },
+  {
+    "name": "dumbbell around pullover"
+  },
+  {
+    "name": "dumbbell bench press"
+  },
+  {
+    "name": "dumbbell bench seated press"
+  },
+  {
+    "name": "dumbbell bench squat"
+  },
+  {
+    "name": "dumbbell bent over row"
+  },
+  {
+    "name": "dumbbell bicep curl lunge with bowling motion"
+  },
+  {
+    "name": "dumbbell bicep curl on exercise ball with leg raised"
+  },
+  {
+    "name": "dumbbell bicep curl with stork stance"
+  },
+  {
+    "name": "dumbbell biceps curl"
+  },
+  {
+    "name": "dumbbell biceps curl (with arm blaster)"
+  },
+  {
+    "name": "dumbbell biceps curl reverse"
+  },
+  {
+    "name": "dumbbell biceps curl squat"
+  },
+  {
+    "name": "dumbbell biceps curl v sit on bosu ball"
+  },
+  {
+    "name": "dumbbell burpee"
+  },
+  {
+    "name": "dumbbell clean"
+  },
+  {
+    "name": "dumbbell close grip press"
+  },
+  {
+    "name": "dumbbell close-grip press"
+  },
+  {
+    "name": "dumbbell concentration curl"
+  },
+  {
+    "name": "dumbbell contralateral forward lunge"
+  },
+  {
+    "name": "dumbbell cross body hammer curl"
+  },
+  {
+    "name": "dumbbell cross body hammer curl v. 2"
+  },
+  {
+    "name": "dumbbell cuban press"
+  },
+  {
+    "name": "dumbbell cuban press v. 2"
+  },
+  {
+    "name": "dumbbell deadlift"
+  },
+  {
+    "name": "dumbbell decline bench press"
+  },
+  {
+    "name": "dumbbell decline fly"
+  },
+  {
+    "name": "dumbbell decline hammer press"
+  },
+  {
+    "name": "dumbbell decline one arm fly"
+  },
+  {
+    "name": "dumbbell decline one arm hammer press"
+  },
+  {
+    "name": "dumbbell decline shrug"
+  },
+  {
+    "name": "dumbbell decline shrug v. 2"
+  },
+  {
+    "name": "dumbbell decline triceps extension"
+  },
+  {
+    "name": "dumbbell decline twist fly"
+  },
+  {
+    "name": "dumbbell finger curls"
+  },
+  {
+    "name": "dumbbell fly"
+  },
+  {
+    "name": "dumbbell fly on exercise ball"
+  },
+  {
+    "name": "dumbbell forward lunge triceps extension"
+  },
+  {
+    "name": "dumbbell front raise"
+  },
+  {
+    "name": "dumbbell front raise v. 2"
+  },
+  {
+    "name": "dumbbell full can lateral raise"
+  },
+  {
+    "name": "dumbbell goblet squat"
+  },
+  {
+    "name": "dumbbell hammer curl"
+  },
+  {
+    "name": "dumbbell hammer curl on exercise ball"
+  },
+  {
+    "name": "dumbbell hammer curl v. 2"
+  },
+  {
+    "name": "dumbbell hammer curls (with arm blaster)"
+  },
+  {
+    "name": "dumbbell high curl"
+  },
+  {
+    "name": "dumbbell incline alternate press"
+  },
+  {
+    "name": "dumbbell incline bench press"
+  },
+  {
+    "name": "dumbbell incline biceps curl"
+  },
+  {
+    "name": "dumbbell incline breeding"
+  },
+  {
+    "name": "dumbbell incline curl"
+  },
+  {
+    "name": "dumbbell incline curl v. 2"
+  },
+  {
+    "name": "dumbbell incline fly"
+  },
+  {
+    "name": "dumbbell incline fly on exercise ball"
+  },
+  {
+    "name": "dumbbell incline hammer curl"
+  },
+  {
+    "name": "dumbbell incline hammer press"
+  },
+  {
+    "name": "dumbbell incline hammer press on exercise ball"
+  },
+  {
+    "name": "dumbbell incline inner biceps curl"
+  },
+  {
+    "name": "dumbbell incline one arm fly"
+  },
+  {
+    "name": "dumbbell incline one arm fly on exercise ball"
+  },
+  {
+    "name": "dumbbell incline one arm hammer press"
+  },
+  {
+    "name": "dumbbell incline one arm hammer press on exercise ball"
+  },
+  {
+    "name": "dumbbell incline one arm lateral raise"
+  },
+  {
+    "name": "dumbbell incline one arm press"
+  },
+  {
+    "name": "dumbbell incline one arm press on exercise ball"
+  },
+  {
+    "name": "dumbbell incline palm-in press"
+  },
+  {
+    "name": "dumbbell incline press on exercise ball"
+  },
+  {
+    "name": "dumbbell incline raise"
+  },
+  {
+    "name": "dumbbell incline rear lateral raise"
+  },
+  {
+    "name": "dumbbell incline row"
+  },
+  {
+    "name": "dumbbell incline shoulder raise"
+  },
+  {
+    "name": "dumbbell incline shrug"
+  },
+  {
+    "name": "dumbbell incline t-raise"
+  },
+  {
+    "name": "dumbbell incline triceps extension"
+  },
+  {
+    "name": "dumbbell incline twisted flyes"
+  },
+  {
+    "name": "dumbbell incline two arm extension"
+  },
+  {
+    "name": "dumbbell incline y-raise"
+  },
+  {
+    "name": "dumbbell iron cross"
+  },
+  {
+    "name": "dumbbell kickback"
+  },
+  {
+    "name": "dumbbell kickbacks on exercise ball"
+  },
+  {
+    "name": "dumbbell kneeling bicep curl exercise ball"
+  },
+  {
+    "name": "dumbbell lateral raise"
+  },
+  {
+    "name": "dumbbell lateral to front raise"
+  },
+  {
+    "name": "dumbbell lunge"
+  },
+  {
+    "name": "dumbbell lunge with bicep curl"
+  },
+  {
+    "name": "dumbbell lying extension (across face)"
+  },
+  {
+    "name": "dumbbell lying alternate extension"
+  },
+  {
+    "name": "dumbbell lying elbow press"
+  },
+  {
+    "name": "dumbbell lying external shoulder rotation"
+  },
+  {
+    "name": "dumbbell lying femoral"
+  },
+  {
+    "name": "dumbbell lying hammer press"
+  },
+  {
+    "name": "dumbbell lying on floor rear delt raise"
+  },
+  {
+    "name": "dumbbell lying one arm deltoid rear"
+  },
+  {
+    "name": "dumbbell lying one arm press"
+  },
+  {
+    "name": "dumbbell lying one arm press v. 2"
+  },
+  {
+    "name": "dumbbell lying one arm pronated triceps extension"
+  },
+  {
+    "name": "dumbbell lying one arm rear lateral raise"
+  },
+  {
+    "name": "dumbbell lying one arm supinated triceps extension"
+  },
+  {
+    "name": "dumbbell lying pronation"
+  },
+  {
+    "name": "dumbbell lying pronation on floor"
+  },
+  {
+    "name": "dumbbell lying pullover on exercise ball"
+  },
+  {
+    "name": "dumbbell lying rear delt row"
+  },
+  {
+    "name": "dumbbell lying rear lateral raise"
+  },
+  {
+    "name": "dumbbell lying single extension"
+  },
+  {
+    "name": "dumbbell lying supination"
+  },
+  {
+    "name": "dumbbell lying supination on floor"
+  },
+  {
+    "name": "dumbbell lying supine biceps curl"
+  },
+  {
+    "name": "dumbbell lying supine curl"
+  },
+  {
+    "name": "dumbbell lying triceps extension"
+  },
+  {
+    "name": "dumbbell lying wide curl"
+  },
+  {
+    "name": "dumbbell neutral grip bench press"
+  },
+  {
+    "name": "dumbbell one arm bench fly"
+  },
+  {
+    "name": "dumbbell one arm bent-over row"
+  },
+  {
+    "name": "dumbbell one arm chest fly on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm concentration curl (on stability ball)"
+  },
+  {
+    "name": "dumbbell one arm decline chest press"
+  },
+  {
+    "name": "dumbbell one arm fly on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm french press on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm hammer preacher curl"
+  },
+  {
+    "name": "dumbbell one arm hammer press on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm incline chest press"
+  },
+  {
+    "name": "dumbbell one arm kickback"
+  },
+  {
+    "name": "dumbbell one arm lateral raise"
+  },
+  {
+    "name": "dumbbell one arm lateral raise with support"
+  },
+  {
+    "name": "dumbbell one arm press on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm prone curl"
+  },
+  {
+    "name": "dumbbell one arm prone hammer curl"
+  },
+  {
+    "name": "dumbbell one arm pullover on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm reverse wrist curl"
+  },
+  {
+    "name": "dumbbell one arm reverse fly (with support)"
+  },
+  {
+    "name": "dumbbell one arm reverse grip press"
+  },
+  {
+    "name": "dumbbell one arm reverse preacher curl"
+  },
+  {
+    "name": "dumbbell one arm reverse spider curl"
+  },
+  {
+    "name": "dumbbell one arm seated bicep curl on exercise ball"
+  },
+  {
+    "name": "dumbbell one arm seated hammer curl"
+  },
+  {
+    "name": "dumbbell one arm seated neutral wrist curl"
+  },
+  {
+    "name": "dumbbell one arm shoulder press"
+  },
+  {
+    "name": "dumbbell one arm shoulder press v. 2"
+  },
+  {
+    "name": "dumbbell one arm snatch"
+  },
+  {
+    "name": "dumbbell one arm standing curl"
+  },
+  {
+    "name": "dumbbell one arm standing hammer curl"
+  },
+  {
+    "name": "dumbbell one arm triceps extension (on bench)"
+  },
+  {
+    "name": "dumbbell one arm upright row"
+  },
+  {
+    "name": "dumbbell one arm wrist curl"
+  },
+  {
+    "name": "dumbbell one arm zottman preacher curl"
+  },
+  {
+    "name": "dumbbell one leg fly on exercise ball"
+  },
+  {
+    "name": "dumbbell over bench neutral wrist curl"
+  },
+  {
+    "name": "dumbbell over bench one arm neutral wrist curl"
+  },
+  {
+    "name": "dumbbell over bench one arm reverse wrist curl"
+  },
+  {
+    "name": "dumbbell over bench one arm wrist curl"
+  },
+  {
+    "name": "dumbbell over bench revers wrist curl"
+  },
+  {
+    "name": "dumbbell over bench wrist curl"
+  },
+  {
+    "name": "dumbbell palm rotational bent over row"
+  },
+  {
+    "name": "dumbbell palms in incline bench press"
+  },
+  {
+    "name": "dumbbell peacher hammer curl"
+  },
+  {
+    "name": "dumbbell plyo squat"
+  },
+  {
+    "name": "dumbbell preacher curl"
+  },
+  {
+    "name": "dumbbell preacher curl over exercise ball"
+  },
+  {
+    "name": "dumbbell press on exercise ball"
+  },
+  {
+    "name": "dumbbell pronate-grip triceps extension"
+  },
+  {
+    "name": "dumbbell prone incline curl"
+  },
+  {
+    "name": "dumbbell prone incline hammer curl"
+  },
+  {
+    "name": "dumbbell pullover"
+  },
+  {
+    "name": "dumbbell pullover hip extension on exercise ball"
+  },
+  {
+    "name": "dumbbell pullover on exercise ball"
+  },
+  {
+    "name": "dumbbell push press"
+  },
+  {
+    "name": "dumbbell raise"
+  },
+  {
+    "name": "dumbbell rear delt raise"
+  },
+  {
+    "name": "dumbbell rear delt row_shoulder"
+  },
+  {
+    "name": "dumbbell rear fly"
+  },
+  {
+    "name": "dumbbell rear lateral raise"
+  },
+  {
+    "name": "dumbbell rear lateral raise (support head)"
+  },
+  {
+    "name": "dumbbell rear lunge"
+  },
+  {
+    "name": "dumbbell revers grip biceps curl"
+  },
+  {
+    "name": "dumbbell reverse bench press"
+  },
+  {
+    "name": "dumbbell reverse fly"
+  },
+  {
+    "name": "dumbbell reverse grip incline bench one arm row"
+  },
+  {
+    "name": "dumbbell reverse grip incline bench two arm row"
+  },
+  {
+    "name": "dumbbell reverse grip row (female)"
+  },
+  {
+    "name": "dumbbell reverse preacher curl"
+  },
+  {
+    "name": "dumbbell reverse spider curl"
+  },
+  {
+    "name": "dumbbell reverse wrist curl"
+  },
+  {
+    "name": "dumbbell romanian deadlift"
+  },
+  {
+    "name": "dumbbell rotation reverse fly"
+  },
+  {
+    "name": "dumbbell scott press"
+  },
+  {
+    "name": "dumbbell seated alternate front raise"
+  },
+  {
+    "name": "dumbbell seated alternate hammer curl on exercise ball"
+  },
+  {
+    "name": "dumbbell seated alternate press"
+  },
+  {
+    "name": "dumbbell seated alternate shoulder"
+  },
+  {
+    "name": "dumbbell seated bench extension"
+  },
+  {
+    "name": "dumbbell seated bent arm lateral raise"
+  },
+  {
+    "name": "dumbbell seated bent over alternate kickback"
+  },
+  {
+    "name": "dumbbell seated bent over triceps extension"
+  },
+  {
+    "name": "dumbbell seated bicep curl"
+  },
+  {
+    "name": "dumbbell seated biceps curl (on stability ball)"
+  },
+  {
+    "name": "dumbbell seated biceps curl to shoulder press"
+  },
+  {
+    "name": "dumbbell seated calf raise"
+  },
+  {
+    "name": "dumbbell seated curl"
+  },
+  {
+    "name": "dumbbell seated front raise"
+  },
+  {
+    "name": "dumbbell seated hammer curl"
+  },
+  {
+    "name": "dumbbell seated inner biceps curl"
+  },
+  {
+    "name": "dumbbell seated kickback"
+  },
+  {
+    "name": "dumbbell seated lateral raise"
+  },
+  {
+    "name": "dumbbell seated lateral raise v. 2"
+  },
+  {
+    "name": "dumbbell seated neutral wrist curl"
+  },
+  {
+    "name": "dumbbell seated one arm bicep curl on exercise ball with leg raised"
+  },
+  {
+    "name": "dumbbell seated one arm kickback"
+  },
+  {
+    "name": "dumbbell seated one arm rotate"
+  },
+  {
+    "name": "dumbbell seated one leg calf raise"
+  },
+  {
+    "name": "dumbbell seated one leg calf raise - hammer grip"
+  },
+  {
+    "name": "dumbbell seated one leg calf raise - palm up"
+  },
+  {
+    "name": "dumbbell seated palms up wrist curl"
+  },
+  {
+    "name": "dumbbell seated preacher curl"
+  },
+  {
+    "name": "dumbbell seated revers grip concentration curl"
+  },
+  {
+    "name": "dumbbell seated reverse grip one arm overhead tricep extension"
+  },
+  {
+    "name": "dumbbell seated shoulder press"
+  },
+  {
+    "name": "dumbbell seated shoulder press (parallel grip)"
+  },
+  {
+    "name": "dumbbell seated triceps extension"
+  },
+  {
+    "name": "dumbbell shrug"
+  },
+  {
+    "name": "dumbbell side bend"
+  },
+  {
+    "name": "dumbbell side lying one hand raise"
+  },
+  {
+    "name": "dumbbell side plank with rear fly"
+  },
+  {
+    "name": "dumbbell single arm overhead carry"
+  },
+  {
+    "name": "dumbbell single leg calf raise"
+  },
+  {
+    "name": "dumbbell single leg deadlift"
+  },
+  {
+    "name": "dumbbell single leg deadlift with stepbox support"
+  },
+  {
+    "name": "dumbbell single leg split squat"
+  },
+  {
+    "name": "dumbbell single leg squat"
+  },
+  {
+    "name": "dumbbell squat"
+  },
+  {
+    "name": "dumbbell standing alternate hammer curl and press"
+  },
+  {
+    "name": "dumbbell standing alternate overhead press"
+  },
+  {
+    "name": "dumbbell standing alternate raise"
+  },
+  {
+    "name": "dumbbell standing alternating tricep kickback"
+  },
+  {
+    "name": "dumbbell standing around world"
+  },
+  {
+    "name": "dumbbell standing bent over one arm triceps extension"
+  },
+  {
+    "name": "dumbbell standing bent over two arm triceps extension"
+  },
+  {
+    "name": "dumbbell standing biceps curl"
+  },
+  {
+    "name": "dumbbell standing calf raise"
+  },
+  {
+    "name": "dumbbell standing concentration curl"
+  },
+  {
+    "name": "dumbbell standing front raise above head"
+  },
+  {
+    "name": "dumbbell standing inner biceps curl v. 2"
+  },
+  {
+    "name": "dumbbell standing kickback"
+  },
+  {
+    "name": "dumbbell standing one arm concentration curl"
+  },
+  {
+    "name": "dumbbell standing one arm curl (over incline bench)"
+  },
+  {
+    "name": "dumbbell standing one arm curl over incline bench"
+  },
+  {
+    "name": "dumbbell standing one arm extension"
+  },
+  {
+    "name": "dumbbell standing one arm palm in press"
+  },
+  {
+    "name": "dumbbell standing one arm reverse curl"
+  },
+  {
+    "name": "dumbbell standing overhead press"
+  },
+  {
+    "name": "dumbbell standing palms in press"
+  },
+  {
+    "name": "dumbbell standing preacher curl"
+  },
+  {
+    "name": "dumbbell standing reverse curl"
+  },
+  {
+    "name": "dumbbell standing triceps extension"
+  },
+  {
+    "name": "dumbbell standing zottman preacher curl"
+  },
+  {
+    "name": "dumbbell step up single leg balance with bicep curl"
+  },
+  {
+    "name": "dumbbell step-up"
+  },
+  {
+    "name": "dumbbell step-up lunge"
+  },
+  {
+    "name": "dumbbell step-up split squat"
+  },
+  {
+    "name": "dumbbell stiff leg deadlift"
+  },
+  {
+    "name": "dumbbell straight arm pullover"
+  },
+  {
+    "name": "dumbbell straight leg deadlift"
+  },
+  {
+    "name": "dumbbell sumo pull through"
+  },
+  {
+    "name": "dumbbell supported squat"
+  },
+  {
+    "name": "dumbbell tate press"
+  },
+  {
+    "name": "dumbbell tricep kickback with stork stance"
+  },
+  {
+    "name": "dumbbell twisting bench press"
+  },
+  {
+    "name": "dumbbell upright row"
+  },
+  {
+    "name": "dumbbell upright row (back pov)"
+  },
+  {
+    "name": "dumbbell upright shoulder external rotation"
+  },
+  {
+    "name": "dumbbell waiter biceps curl"
+  },
+  {
+    "name": "dumbbell w-press"
+  },
+  {
+    "name": "dumbbell zottman curl"
+  },
+  {
+    "name": "dumbbell zottman preacher curl"
+  },
+  {
+    "name": "dumbbells seated triceps extension"
+  },
+  {
+    "name": "dynamic chest stretch (male)"
+  },
+  {
+    "name": "elbow dips"
+  },
+  {
+    "name": "elbow lift - reverse push-up"
+  },
+  {
+    "name": "elbow-to-knee"
+  },
+  {
+    "name": "elevator"
+  },
+  {
+    "name": "exercise ball alternating arm ups"
+  },
+  {
+    "name": "exercise ball back extension with arms extended"
+  },
+  {
+    "name": "exercise ball back extension with hands behind head"
+  },
+  {
+    "name": "exercise ball back extension with knees off ground"
+  },
+  {
+    "name": "exercise ball back extension with rotation"
+  },
+  {
+    "name": "exercise ball dip"
+  },
+  {
+    "name": "exercise ball hip flexor stretch"
+  },
+  {
+    "name": "exercise ball hug"
+  },
+  {
+    "name": "exercise ball lat stretch"
+  },
+  {
+    "name": "exercise ball lower back stretch (pyramid)"
+  },
+  {
+    "name": "exercise ball lying side lat stretch"
+  },
+  {
+    "name": "exercise ball on the wall calf raise"
+  },
+  {
+    "name": "exercise ball on the wall calf raise (tennis ball between ankles)"
+  },
+  {
+    "name": "exercise ball on the wall calf raise (tennis ball between knees)"
+  },
+  {
+    "name": "exercise ball one leg prone lower body rotation"
+  },
+  {
+    "name": "exercise ball one legged diagonal kick hamstring curl"
+  },
+  {
+    "name": "exercise ball pike push up"
+  },
+  {
+    "name": "exercise ball prone leg raise"
+  },
+  {
+    "name": "exercise ball seated hamstring stretch"
+  },
+  {
+    "name": "exercise ball seated triceps stretch"
+  },
+  {
+    "name": "exercise ball supine triceps extension"
+  },
+  {
+    "name": "ez bar french press on exercise ball"
+  },
+  {
+    "name": "ez bar lying bent arms pullover"
+  },
+  {
+    "name": "ez bar lying close grip triceps extension behind head"
+  },
+  {
+    "name": "ez bar reverse grip bent over row"
+  },
+  {
+    "name": "ez bar seated close grip concentration curl"
+  },
+  {
+    "name": "ez bar standing french press"
+  },
+  {
+    "name": "ez barbell anti gravity press"
+  },
+  {
+    "name": "ez barbell close grip preacher curl"
+  },
+  {
+    "name": "ez barbell close-grip curl"
+  },
+  {
+    "name": "ez barbell curl"
+  },
+  {
+    "name": "ez barbell decline close grip face press"
+  },
+  {
+    "name": "ez barbell decline triceps extension"
+  },
+  {
+    "name": "ez barbell incline triceps extension"
+  },
+  {
+    "name": "ez barbell jm bench press"
+  },
+  {
+    "name": "ez barbell reverse grip curl"
+  },
+  {
+    "name": "ez barbell reverse grip preacher curl"
+  },
+  {
+    "name": "ez barbell seated curls"
+  },
+  {
+    "name": "ez barbell seated triceps extension"
+  },
+  {
+    "name": "ez barbell spider curl"
+  },
+  {
+    "name": "ez barbell spider curl"
+  },
+  {
+    "name": "ez-bar biceps curl (with arm blaster)"
+  },
+  {
+    "name": "ez-bar close-grip bench press"
+  },
+  {
+    "name": "ez-barbell standing wide grip biceps curl"
+  },
+  {
+    "name": "farmers walk"
+  },
+  {
+    "name": "finger curls"
+  },
+  {
+    "name": "flag"
+  },
+  {
+    "name": "flexion leg sit up (bent knee)"
+  },
+  {
+    "name": "flexion leg sit up (straight arm)"
+  },
+  {
+    "name": "floor fly (with barbell)"
+  },
+  {
+    "name": "flutter kicks"
+  },
+  {
+    "name": "forward jump"
+  },
+  {
+    "name": "forward lunge (male)"
+  },
+  {
+    "name": "frankenstein squat"
+  },
+  {
+    "name": "frog crunch"
+  },
+  {
+    "name": "frog planche"
+  },
+  {
+    "name": "front lever"
+  },
+  {
+    "name": "front lever reps"
+  },
+  {
+    "name": "front plank with twist"
+  },
+  {
+    "name": "full maltese"
+  },
+  {
+    "name": "full planche"
+  },
+  {
+    "name": "full planche push-up"
+  },
+  {
+    "name": "gironda sternum chin"
+  },
+  {
+    "name": "glute bridge march"
+  },
+  {
+    "name": "glute bridge two legs on bench (male)"
+  },
+  {
+    "name": "glute-ham raise"
+  },
+  {
+    "name": "gorilla chin"
+  },
+  {
+    "name": "groin crunch"
+  },
+  {
+    "name": "hack calf raise"
+  },
+  {
+    "name": "hack one leg calf raise"
+  },
+  {
+    "name": "half knee bends (male)"
+  },
+  {
+    "name": "half sit-up (male)"
+  },
+  {
+    "name": "hamstring stretch"
+  },
+  {
+    "name": "hands bike"
+  },
+  {
+    "name": "hands clasped circular toe touch (male)"
+  },
+  {
+    "name": "hands reversed clasped circular toe touch (male)"
+  },
+  {
+    "name": "handstand"
+  },
+  {
+    "name": "handstand push-up"
+  },
+  {
+    "name": "hanging leg hip raise"
+  },
+  {
+    "name": "hanging leg raise"
+  },
+  {
+    "name": "hanging oblique knee raise"
+  },
+  {
+    "name": "hanging pike"
+  },
+  {
+    "name": "hanging straight leg hip raise"
+  },
+  {
+    "name": "hanging straight leg raise"
+  },
+  {
+    "name": "hanging straight twisting leg hip raise"
+  },
+  {
+    "name": "high knee against wall"
+  },
+  {
+    "name": "hip raise (bent knee)"
+  },
+  {
+    "name": "hug keens to chest"
+  },
+  {
+    "name": "hyght dumbbell fly"
+  },
+  {
+    "name": "hyperextension"
+  },
+  {
+    "name": "hyperextension (on bench)"
+  },
+  {
+    "name": "impossible dips"
+  },
+  {
+    "name": "inchworm"
+  },
+  {
+    "name": "inchworm v. 2"
+  },
+  {
+    "name": "incline close-grip push-up"
+  },
+  {
+    "name": "incline leg hip raise (leg straight)"
+  },
+  {
+    "name": "incline push up depth jump"
+  },
+  {
+    "name": "incline push-up"
+  },
+  {
+    "name": "incline push-up (on box)"
+  },
+  {
+    "name": "incline reverse grip push-up"
+  },
+  {
+    "name": "incline scapula push up"
+  },
+  {
+    "name": "incline twisting sit-up"
+  },
+  {
+    "name": "intermediate hip flexor and quad stretch"
+  },
+  {
+    "name": "inverse leg curl (bench support)"
+  },
+  {
+    "name": "inverse leg curl (on pull-up cable machine)"
+  },
+  {
+    "name": "inverted row"
+  },
+  {
+    "name": "inverted row bent knees"
+  },
+  {
+    "name": "inverted row on bench"
+  },
+  {
+    "name": "inverted row v. 2"
+  },
+  {
+    "name": "inverted row with straps"
+  },
+  {
+    "name": "iron cross stretch"
+  },
+  {
+    "name": "isometric chest squeeze"
+  },
+  {
+    "name": "isometric wipers"
+  },
+  {
+    "name": "jack burpee"
+  },
+  {
+    "name": "jack jump (male)"
+  },
+  {
+    "name": "jackknife sit-up"
+  },
+  {
+    "name": "janda sit-up"
+  },
+  {
+    "name": "jump rope"
+  },
+  {
+    "name": "jump squat"
+  },
+  {
+    "name": "jump squat v. 2"
+  },
+  {
+    "name": "kettlebell advanced windmill"
+  },
+  {
+    "name": "kettlebell alternating hang clean"
+  },
+  {
+    "name": "kettlebell alternating press"
+  },
+  {
+    "name": "kettlebell alternating press on floor"
+  },
+  {
+    "name": "kettlebell alternating renegade row"
+  },
+  {
+    "name": "kettlebell alternating row"
+  },
+  {
+    "name": "kettlebell arnold press"
+  },
+  {
+    "name": "kettlebell bent press"
+  },
+  {
+    "name": "kettlebell bottoms up clean from the hang position"
+  },
+  {
+    "name": "kettlebell double alternating hang clean"
+  },
+  {
+    "name": "kettlebell double jerk"
+  },
+  {
+    "name": "kettlebell double push press"
+  },
+  {
+    "name": "kettlebell double snatch"
+  },
+  {
+    "name": "kettlebell double windmill"
+  },
+  {
+    "name": "kettlebell extended range one arm press on floor"
+  },
+  {
+    "name": "kettlebell figure 8"
+  },
+  {
+    "name": "kettlebell front squat"
+  },
+  {
+    "name": "kettlebell goblet squat"
+  },
+  {
+    "name": "kettlebell hang clean"
+  },
+  {
+    "name": "kettlebell lunge pass through"
+  },
+  {
+    "name": "kettlebell one arm clean and jerk"
+  },
+  {
+    "name": "kettlebell one arm floor press"
+  },
+  {
+    "name": "kettlebell one arm jerk"
+  },
+  {
+    "name": "kettlebell one arm military press to the side"
+  },
+  {
+    "name": "kettlebell one arm push press"
+  },
+  {
+    "name": "kettlebell one arm row"
+  },
+  {
+    "name": "kettlebell one arm snatch"
+  },
+  {
+    "name": "kettlebell pirate supper legs"
+  },
+  {
+    "name": "kettlebell pistol squat"
+  },
+  {
+    "name": "kettlebell plyo push-up"
+  },
+  {
+    "name": "kettlebell seated press"
+  },
+  {
+    "name": "kettlebell seated two arm military press"
+  },
+  {
+    "name": "kettlebell seesaw press"
+  },
+  {
+    "name": "kettlebell sumo high pull"
+  },
+  {
+    "name": "kettlebell swing"
+  },
+  {
+    "name": "kettlebell thruster"
+  },
+  {
+    "name": "kettlebell turkish get up (squat style)"
+  },
+  {
+    "name": "kettlebell two arm clean"
+  },
+  {
+    "name": "kettlebell two arm military press"
+  },
+  {
+    "name": "kettlebell two arm row"
+  },
+  {
+    "name": "kettlebell windmill"
+  },
+  {
+    "name": "kick out sit"
+  },
+  {
+    "name": "kipping muscle up"
+  },
+  {
+    "name": "knee touch crunch"
+  },
+  {
+    "name": "kneeling jump squat"
+  },
+  {
+    "name": "kneeling lat stretch"
+  },
+  {
+    "name": "kneeling plank tap shoulder (male)"
+  },
+  {
+    "name": "kneeling push-up (male)"
+  },
+  {
+    "name": "korean dips"
+  },
+  {
+    "name": "l-pull-up"
+  },
+  {
+    "name": "l-sit on floor"
+  },
+  {
+    "name": "landmine 180"
+  },
+  {
+    "name": "landmine lateral raise"
+  },
+  {
+    "name": "lean planche"
+  },
+  {
+    "name": "left hook. boxing"
+  },
+  {
+    "name": "leg pull in flat bench"
+  },
+  {
+    "name": "leg up hamstring stretch"
+  },
+  {
+    "name": "lever alternate leg press"
+  },
+  {
+    "name": "lever alternating narrow grip seated row"
+  },
+  {
+    "name": "lever assisted chin-up"
+  },
+  {
+    "name": "lever back extension"
+  },
+  {
+    "name": "lever bent over row"
+  },
+  {
+    "name": "lever bent-over row with v-bar"
+  },
+  {
+    "name": "lever bicep curl"
+  },
+  {
+    "name": "lever calf press"
+  },
+  {
+    "name": "lever chest press"
+  },
+  {
+    "name": "lever chest press"
+  },
+  {
+    "name": "lever deadlift"
+  },
+  {
+    "name": "lever decline chest press"
+  },
+  {
+    "name": "lever donkey calf raise"
+  },
+  {
+    "name": "lever front pulldown"
+  },
+  {
+    "name": "lever gripless shrug"
+  },
+  {
+    "name": "lever gripless shrug v. 2"
+  },
+  {
+    "name": "lever gripper hands"
+  },
+  {
+    "name": "lever hammer grip preacher curl"
+  },
+  {
+    "name": "lever high row"
+  },
+  {
+    "name": "lever hip extension v. 2"
+  },
+  {
+    "name": "lever horizontal one leg press"
+  },
+  {
+    "name": "lever incline chest press"
+  },
+  {
+    "name": "lever incline chest press v. 2"
+  },
+  {
+    "name": "lever kneeling leg curl"
+  },
+  {
+    "name": "lever kneeling twist"
+  },
+  {
+    "name": "lever lateral raise"
+  },
+  {
+    "name": "lever leg extension"
+  },
+  {
+    "name": "lever lying leg curl"
+  },
+  {
+    "name": "lever lying two-one leg curl"
+  },
+  {
+    "name": "lever military press"
+  },
+  {
+    "name": "lever narrow grip seated row"
+  },
+  {
+    "name": "lever one arm bent over row"
+  },
+  {
+    "name": "lever one arm lateral high row"
+  },
+  {
+    "name": "lever one arm lateral wide pulldown"
+  },
+  {
+    "name": "lever one arm shoulder press"
+  },
+  {
+    "name": "lever overhand triceps dip"
+  },
+  {
+    "name": "lever preacher curl"
+  },
+  {
+    "name": "lever preacher curl v. 2"
+  },
+  {
+    "name": "lever pullover"
+  },
+  {
+    "name": "lever reverse grip lateral pulldown"
+  },
+  {
+    "name": "lever reverse grip preacher curl"
+  },
+  {
+    "name": "lever reverse grip vertical row"
+  },
+  {
+    "name": "lever reverse hyperextension"
+  },
+  {
+    "name": "lever reverse t-bar row"
+  },
+  {
+    "name": "lever rotary calf"
+  },
+  {
+    "name": "lever seated calf press"
+  },
+  {
+    "name": "lever seated calf raise"
+  },
+  {
+    "name": "lever seated crunch"
+  },
+  {
+    "name": "lever seated crunch (chest pad)"
+  },
+  {
+    "name": "lever seated crunch v. 2"
+  },
+  {
+    "name": "lever seated dip"
+  },
+  {
+    "name": "lever seated fly"
+  },
+  {
+    "name": "lever seated good morning"
+  },
+  {
+    "name": "lever seated hip abduction"
+  },
+  {
+    "name": "lever seated hip adduction"
+  },
+  {
+    "name": "lever seated leg curl"
+  },
+  {
+    "name": "lever seated leg raise crunch"
+  },
+  {
+    "name": "lever seated reverse fly"
+  },
+  {
+    "name": "lever seated reverse fly (parallel grip)"
+  },
+  {
+    "name": "lever seated row"
+  },
+  {
+    "name": "lever seated squat calf raise on leg press machine"
+  },
+  {
+    "name": "lever shoulder press"
+  },
+  {
+    "name": "lever shoulder press v. 2"
+  },
+  {
+    "name": "lever shoulder press v. 3"
+  },
+  {
+    "name": "lever shrug"
+  },
+  {
+    "name": "lever standing calf raise"
+  },
+  {
+    "name": "lever standing chest press"
+  },
+  {
+    "name": "lever t bar row"
+  },
+  {
+    "name": "lever t-bar reverse grip row"
+  },
+  {
+    "name": "lever triceps extension"
+  },
+  {
+    "name": "lever unilateral row"
+  },
+  {
+    "name": "london bridge"
+  }
+]
