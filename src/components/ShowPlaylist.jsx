@@ -176,3 +176,4 @@ const ShowPlaylist = ({ playlist, exerciseTree }) => {
 };
 
 export default ShowPlaylist;
+
