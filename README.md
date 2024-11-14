@@ -1,8 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# FitFusion
+Overview: FitFusion is a web application that helps users build workout routines by organizing and managing exercises into playlists. It uses a doubly linked list to store and navigate through exercises, with features such as adding, deleting, and searching for exercises in a playlist using Binary Search Tree.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Exercise Playlist Management: Users can navigate through exercises in a playlist, with options to go to the next or previous exercise.
+Exercise Search & Add: Users can search for exercises and add them to the playlist.
+Exercise Removal: Users can remove exercises from the playlist.
+Dynamic Exercise List: The playlist is backed by a doubly linked list to efficiently manage the exercises.
