@@ -1,6 +1,6 @@
 
 # FitFusion
-Overview: FitFusion is a web application that helps users build workout routines by organizing and managing exercises into playlists. It uses a doubly linked list to store and navigate through exercises, with features such as adding, deleting, and searching for exercises in a playlist using Binary Search Tree.
+Overview: FitFusion is a web application that helps users build workout routines by organizing and managing exercises into playlists. It uses a doubly linked list to store and navigate through exercises, with features such as adding, deleting, and searching for exercises in a playlist (DLL) and implemented search exercise feature using Binary Search Tree.
 
 # Demo
 ![image](https://github.com/user-attachments/assets/b552b0b4-39b3-4dd0-9b82-0c7c50173a49)
